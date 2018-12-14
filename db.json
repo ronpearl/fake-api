@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "authId": null,
+      "headerImg": null,
+      "username": null,
+      "userType": null,
+      "phone": null,
+      "city": null,
+      "state": null,
+      "servedStates": [],
+      "bio": null,
+      "profilePicFilename": null,
+      "social": [
+        {
+          "type": "facebook",
+          "url": null
+        },
+        {
+          "type": "twitter",
+          "url": null
+        },
+        {
+          "type": "instagram",
+          "url": null
+        },
+        {
+          "type": "linkedin",
+          "url": null
+        },
+        {
+          "type": "youtube",
+          "url": null
+        }
+      ],
+      "videos": [
+        {
+          "type": "youtube",
+          "id": null
+        },
+        {
+          "type": "youtube",
+          "id": null
+        },
+        {
+          "type": "youtube",
+          "id": null
+        },
+        {
+          "type": "youtube",
+          "id": null
+        },
+        {
+          "type": "youtube",
+          "id": null
+        }
+      ],
+      "images": []
+    }
+  ]
+}
